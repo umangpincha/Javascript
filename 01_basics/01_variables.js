@@ -11,4 +11,4 @@ let accountState;
 console.table([accountEmail , accountPassword , accountCity, accountState])
 
 // TODO:
-// Never use var , always prefer "const" if not then "let"
+// Never use var(bcs of clock scope) , always prefer "const" if not then "let"
